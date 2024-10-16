@@ -1,0 +1,2 @@
+# Build-a-Mood-Based-Cinematic-Curator-with-OpenAI-and-Twilio-SendGrid
+In an era of information overload and decision fatigue, tools that simplify our choices while catering to our emotional needs are invaluable. The right movie can turn your day around. Feeling down, anxious, or stuck? Movies tap into emotions and offer escape or a refresh.  The Mood-Based Cinematic Curator syncs your mood with the perfect film.
