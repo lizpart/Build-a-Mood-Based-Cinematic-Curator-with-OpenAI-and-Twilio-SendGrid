@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, jsonify
 import openai
 import os
 from transformers import pipeline
+import torch
 from dotenv import load_dotenv 
 import requests
 from sendgrid import SendGridAPIClient
